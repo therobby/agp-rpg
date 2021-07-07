@@ -1,0 +1,3 @@
+Font=Font/GrandHotel-Regular.otf
+ResolutionX=1024
+ResolutionY=800

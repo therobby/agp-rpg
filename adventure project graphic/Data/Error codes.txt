@@ -1,0 +1,14 @@
+10 - Can't load Data/[MapName]_textsize.txt
+11 - Can't load Data/textures.txt
+12 - Can't load Data/[MapName].txt
+13 - Can't load Data/[MapName]_Collide.txt
+14 - Can't load Data/[MapName]_Respawn.txt
+15 - Can't load npc texture form Texture/
+16 - Can't load settings!
+
+20 - Can't load from file (font)
+21 - Can't load from file (texture)
+
+30 - Map file is asking for nonexisting texture!
+
+40 - Can't save new settings!
